@@ -16,7 +16,7 @@ The sample datasets used for training and evaluating the models are provided in 
 
 # Code usage
 Instructions on code usage are available in a README.md file within each folder (links also provided below).
-* <a href="https://github.com/Sowmya-R-Krishnan/DRLiPS/blob/main/Data_preprocessing/README.md">Dataset pre-processing</a>
+* <a href="https://github.com/Sowmya-R-Krishnan/DRLiPS/blob/main/Dataset_preprocessing/README.md">Dataset pre-processing</a>
 * <a href="https://github.com/Sowmya-R-Krishnan/DRLiPS/blob/main/Feature_selection/README.md">Feature selection</a>
 * <a href="https://github.com/Sowmya-R-Krishnan/DRLiPS/blob/main/Model_evaluation/README.md">Model evaluation</a>
 
