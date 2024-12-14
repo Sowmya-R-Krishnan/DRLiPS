@@ -1,4 +1,3 @@
-# DRLiPS
 # A Novel Method for Prediction of Druggable RNA-Small Molecule Binding Pockets Using Machine Learning
 **Sowmya Ramaswamy Krishnan, Arijit Roy<sup>#</sup>, Limsoon Wong, M. Michael Gromiha<sup>#</sup>**
 
