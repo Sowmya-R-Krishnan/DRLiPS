@@ -1,0 +1,93 @@
+PDB_ID	Binding_site_residues	Pocket_class	PID	ID
+6tb7	G_23_A,G_24_A,G_25_A,C_26_A,C_27_A,G_33_A,C_34_A,A_35_A,C_37_A,G_38_A,A_39_A	NAD-I	Pocket_1	1
+6tfe	G_2_A,C_3_A,U_4_A,G_50_A,C_51_A,C_52_A	NAD-I	Pocket_2	2
+7d7v	C_27_A,A_28_A,U_29_A,U_30_A,G_31_A,C_32_A,A_33_A,C_34_A,C_36_A,C_37_A,G_38_A,C_39_A	NAD-I	Pocket_3	3
+7d7z	A_18_A,G_19_A,G_20_A,U_21_A,G_22_A,G_23_A,G_24_A,G_28_A,A_31_A,G_32_A,U_33_A,C_34_A,A_35_A,C_37_A,C_39_A,A_40_A,C_41_A,C_42_A,U_43_A	NAD-I	Pocket_4	4
+8gxc	C_45_A,U_46_A,U_47_A,U_48_A,A_49_A,A_50_A,A_51_A	NAD-II	Pocket_5	5
+8hb3	A_1_A,G_2_A,A_3_A,G_4_A,C_5_A,C_32_B,G_33_B,G_34_B,C_35_B,U_36_B,C_37_B,U_38_B,U_39_B,U_40_B,A_41_B	NAD-II	Pocket_6	6
+8i3z	C_13_A,C_14_A,A_17_A,A_18_A,G_19_A,U_20_A,C_27_B,G_28_B,A_29_B,C_30_B,G_52_B,A_53_B,G_54_B	NAD-II	Pocket_7	7
+3gog	A_17_A,C_18_A,A_19_A,U_20_A,U_48_A,U_77_A,G_78_A,U_79_A,C_80_A	Purine riboswitch	Pocket_8	8
+3slm	U_83_B,A_84_B,A_85_B,G_86_B,G_87_B	Purine riboswitch	Pocket_9	9
+4fen	C_18_B,A_19_B,C_70_B,C_71_B,G_72_B	Purine riboswitch	Pocket_10	10
+4fep	U_77_B,G_78_B,U_79_B,C_80_B	Purine riboswitch	Pocket_11	11
+5c7w	G_32_C,G_38_C,C_39_C,A_66_C,U_67_C,G_68_C,U_69_C	Purine riboswitch	Pocket_12	12
+5c7w	C_28_C,G_29_C,U_30_C,G_38_C,C_60_C,C_61_C,G_62_C,U_63_C,A_64_C,A_65_C,A_66_C,U_67_C	Purine riboswitch	Pocket_13	13
+6vwt	G_14_A,G_15_A,A_16_A,A_17_A,C_82_A	Purine riboswitch	Pocket_14	14
+7wi9	C_14_V,C_15_V,G_48_V,G_49_V,A_50_V	THF-II site	Pocket_15	15
+7wie	G_7_V,C_8_V,G_9_V,U_10_V,G_54_V,C_55_V,C_56_V	THF-II site	Pocket_16	16
+3k0j	C_5_E,G_6_E,A_7_E,C_50_E,G_51_E,U_52_E,C_55_E,A_85_E,G_86_E,U_87_E	TPP site	Pocket_17	17
+7tzs	G_11_X,A_12_X,C_13_X,U_14_X,G_51_X,U_52_X,A_85_X,G_86_X,U_87_X,U_88_X	TPP site	Pocket_18	18
+7tzs	C_58_X,U_59_X,G_60_X,C_77_X,G_78_X,A_80_X,G_81_X,G_82_X	TPP site	Pocket_19	19
+3d2v	G_1_A,G_2_A,A_7_A,U_39_A,U_40_A,U_41_A,G_42_A,G_69_A,G_70_A,G_71_A,G_73_A,U_74_A,G_75_A,U_76_A	TPP site	Pocket_20	20
+5d5l	U_36_A,C_37_A,C_38_A,G_74_A,A_75_A,G_76_A,A_77_A	PreQ1 Class II site	Pocket_21	21
+5d5l	A_27_A,U_28_A,U_44_A,C_45_A	PreQ1 Class II site	Pocket_22	22
+6xkn	A_10_A,G_11_A,G_12_A,A_13_A,A_87_A,U_88_A,U_89_A	PreQ1 Class III site	Pocket_23	23
+6xkn	A_2_A,C_23_A,C_24_A,C_25_A,C_26_A,G_27_A,G_28_A,C_29_A,G_30_A,U_31_A,G_32_A,U_33_A,A_39_A,C_40_A,C_41_A,A_42_A,U_43_A,G_44_A,C_45_A,C_46_A,G_47_A,G_48_A,G_49_A,C_50_A	PreQ1 Class III site	Pocket_24	24
+6xko	A_58_A,U_59_A,A_60_A,G_61_A,G_62_A	PreQ1 Class III site	Pocket_25	25
+3v7e	C_55_C,U_56_C,A_57_C,G_58_C,C_59_C,G_73_C,A_74_C,C_75_C,G_76_C,C_77_C	SAM-I	Pocket_26	26
+3v7e	A_49_C,C_50_C,U_51_C,G_85_C,U_86_C,G_87_C	SAM-I	Pocket_27	27
+3v7e	A_20_C,G_21_C,G_22_C,G_23_C,A_24_C,C_25_C,U_26_C,G_27_C,G_28_C,C_29_C,C_30_C,C_31_C,G_32_C,A_33_C,C_97_C	SAM-I	Pocket_28	28
+3v7e	A_52_C,G_53_C,U_54_C,C_82_C,U_83_C,A_84_C	SAM-I	Pocket_29	29
+4kqy	G_50_A,C_73_A,A_74_A,A_75_A,G_76_A	SAM-I	Pocket_30	30
+4kqy	U_57_A,G_58_A,G_59_A,C_60_A,C_67_A,A_68_A,U_69_A	SAM-I	Pocket_31	31
+2qwy	G_25_A,U_26_A,U_40_A,A_41_A	SAM-II	Pocket_32	32
+2qwy	G_3_A,C_4_A,G_5_A,G_28_A,C_29_A,G_30_A,U_31_A,G_32_A,A_33_A,U_34_A,A_35_A,A_36_A	SAM-II	Pocket_33	33
+3npn	G_10_A,C_11_A,G_12_A,U_13_A,G_50_A,C_51_A	SAH	Pocket_34	34
+6laz	C_22_A,U_23_A,C_24_A,U_39_A,C_40_A,C_41_A,G_48_A	SAM-VI	Pocket_35	35
+6uet	G_17_A,U_18_A,A_20_A,A_21_A,G_32_A,C_33_A	SAM-IV	Pocket_36	36
+6uet	C_46_A,U_47_A,C_48_A,C_49_A,A_50_A,A_51_A,C_52_A,C_53_A,G_54_A,C_55_A,G_56_A,G_57_A,G_60_A,G_61_A,G_82_A,U_83_A,G_107_A,C_108_A,A_109_A,A_110_A,G_111_A,C_112_A,G_113_A,C_114_A,G_115_A,G_116_A,G_117_A,U_118_A,C_119_A	SAM-IV	Pocket_37	37
+3diz	G_150_A,U_151_A,C_152_A,U_153_A,C_154_A	Lysine site	Pocket_38	38
+3dj0	G_9_A,A_10_A,U_142_A,C_143_A,C_166_A,C_167_A	Lysine site	Pocket_39	39
+4erj	G_6_A,A_7_A,U_139_A,C_140_A,C_155_A,C_156_A	Lysine site	Pocket_40	40
+4erl	C_140_A,G_141_A,C_142_A,G_149_A,G_150_A,A_151_A,G_152_A,A_153_A,G_154_A	Lysine site	Pocket_41	41
+2fcx	U_2_A,G_4_A,A_21_A,A_22_A,G_23_A	HIV DIS	Pocket_42	42
+5ndh	G_3_A,G_4_A,C_14_A,G_15_A,C_16_A	Guanidine Class-II	Pocket_43	43
+5nep	G_1_A,G_2_A,U_3_A,G_4_A,A_16_A,C_18_A	Guanidine Class-II	Pocket_44	44
+5o69	U_11_A,G_12_A,G_40_A,C_41_A	Guanidine Class-III	Pocket_45	45
+5t83	G_11_A,C_12_A,U_13_A,A_14_A,G_15_A,U_37_A,G_38_A,G_39_A,U_40_A,G_47_A,C_48_A,A_49_A,A_50_A	Guanidine Class-I	Pocket_46	46
+5t83	U_18_A,U_19_A,C_20_A,C_21_A,G_22_A,C_23_A,G_24_A,G_30_A,G_31_A,U_32_A,G_33_A,G_34_A,C_36_A,A_78_A,U_79_A,A_80_A,A_81_A,A_82_A	Guanidine Class-I	Pocket_47	47
+5u3g	G_45_B,C_46_B,C_47_B,G_53_B,C_54_B,G_55_B,G_56_B	Guanidine Class-I	Pocket_48	48
+5u3g	G_9_B,G_10_B,U_13_B,U_28_B,C_29_B,C_30_B,G_31_B,A_32_B,G_68_B,A_69_B,A_70_B,A_71_B,A_72_B,A_73_B,A_74_B,C_76_B,C_77_B	Guanidine Class-I	Pocket_49	49
+5u3g	C_6_B,U_7_B,A_8_B,G_9_B,G_10_B,G_11_B,U_12_B,U_13_B,C_14_B,C_15_B,G_16_B,G_17_B,A_21_B,A_22_B,G_23_B,C_24_B,C_25_B,G_26_B,G_27_B,U_28_B,C_29_B,C_30_B,G_31_B	Guanidine Class-I	Pocket_50	50
+3iwn	G_26_A,A_27_A,G_28_A,U_29_A	C-di-GMP site	Pocket_51	51
+3iwn	G_56_A,C_57_A,A_58_A,U_59_A,U_60_A	C-di-GMP site	Pocket_52	52
+3iwn	U_43_A,C_45_A,G_46_A,G_47_A,C_48_A,G_75_A,U_76_A	C-di-GMP site	Pocket_53	53
+6ck4	A_27_D,U_28_D,G_31_D,U_32_D	PRPP site	Pocket_54	54
+6ck4	U_9_A,A_10_A,C_11_A,U_52_A,A_53_A,C_54_A	PRPP site	Pocket_55	55
+6ck4	C_45_A,G_46_A,G_84_A,A_85_A,C_86_A,C_92_A,C_93_A	PRPP site	Pocket_56	56
+4frg	G_25_B,A_26_B,C_27_B,G_28_B,U_29_B,G_30_B,A_33_B,U_34_B,U_35_B,C_36_B	Cobalamine site	Pocket_57	57
+4frg	A_6_B,A_7_B,A_8_B,A_9_B,G_10_B,U_13_B,A_14_B,G_15_B	Cobalamine site	Pocket_58	58
+4frn	G_2_A,G_3_A,C_80_A,A_84_A,G_85_A	Cobalamine site	Pocket_59	59
+4frn	A_33_A,U_34_A,U_35_A,U_57_A,A_61_A,C_64_A	Cobalamine site	Pocket_60	60
+4frn	G_1_A,G_2_A,C_72_A,A_73_A,C_74_A,C_75_A,U_76_A,A_102_A	Cobalamine site	Pocket_61	61
+6vmy	U_322_A,C_323_A,A_324_A,G_325_A,C_326_A,A_327_A,C_328_A,A_330_A,A_331_A,G_341_A,A_342_A,C_343_A,A_344_A,G_345_A,A_346_A,U_347_A,G_348_A,A_349_A	Cobalamine site	Pocket_62	62
+4gma	U_4_Z,A_5_Z,A_6_Z,A_7_Z,U_177_Z,U_178_Z	Adenosylcobalamine site	Pocket_63	63
+4gma	A_45_Z,A_46_Z,A_47_Z,G_168_Z,C_169_Z	Adenosylcobalamine site	Pocket_64	64
+4gma	C_9_Z,C_10_Z,G_176_Z,U_177_Z,A_184_Z,G_185_Z,U_186_Z,U_187_Z,C_188_Z,G_189_Z,C_190_Z,C_191_Z,G_199_Z,A_201_Z,A_202_Z,G_203_Z,G_204_Z,U_205_Z,G_206_Z,A_207_Z,A_208_Z,C_209_Z	Adenosylcobalamine site	Pocket_65	65
+4gxy	G_103_A,C_104_A,C_105_A,A_106_A,G_126_A,G_127_A,C_128_A,G_129_A	Adenosylcobalamine site	Pocket_66	66
+4gxy	G_45_A,C_46_A,C_47_A,G_48_A,G_49_A,U_50_A,G_51_A,A_54_A,G_55_A,U_56_A,C_153_A	Adenosylcobalamine site	Pocket_67	67
+4gxy	C_95_A,G_96_A,G_97_A,G_98_A,A_99_A,G_130_A	Adenosylcobalamine site	Pocket_68	68
+4gxy	G_9_A,U_10_A,G_11_A,C_12_A,U_35_A,A_36_A,A_37_A,A_38_A,U_102_A	Adenosylcobalamine site	Pocket_69	69
+4gxy	A_36_A,A_37_A,A_38_A,A_39_A,G_163_A,C_164_A,C_165_A,U_166_A,G_167_A	Adenosylcobalamine site	Pocket_70	70
+4qk8	A_45_A,A_46_A,U_47_A,C_48_A,U_49_A,G_50_A,C_51_A,A_52_A,G_53_A,U_54_A,G_55_A,A_56_A,A_57_A,G_58_A,C_59_A,U_60_A,G_61_A,C_62_A,A_63_A,G_64_A,U_65_A,A_66_A,G_67_A,G_68_A,C_83_A,G_84_A,C_85_A,A_86_A	C-di-AMP site	Pocket_71	71
+4qk9	G_4_A,C_5_A,U_6_A,A_49_A,G_69_A,G_70_A,C_71_A,G_84_A,C_85_A,C_86_A,C_87_A,G_111_A,C_112_A,G_113_A,U_114_A,G_115_A	C-di-AMP site	Pocket_72	72
+4qln	G_63_A,A_64_A,G_65_A,U_66_A,C_85_A,G_86_A,A_87_A	C-di-AMP site	Pocket_73	73
+4qln	A_10_A,A_11_A,C_12_A,C_13_A,C_14_A,G_21_A,G_22_A,C_23_A,G_24_A,C_74_A,U_75_A,C_76_A,G_105_A,C_106_A,G_121_A,A_122_A,A_123_A	C-di-AMP site	Pocket_74	74
+6n5o	A_9_A,G_14_A,A_15_A,U_16_A,C_17_A,U_18_A,G_19_A,G_20_A,C_21_A,G_22_A,G_23_A,U_24_A,C_26_A,G_27_A,C_106_A,G_107_A,G_108_A,A_109_A	C-di-AMP site	Pocket_75	75
+6n5p	A_71_A,G_72_A,G_73_A,G_74_A,A_75_A,U_76_A,A_77_A,U_80_A,U_81_A,C_82_A,U_83_A,G_84_A,U_85_A,C_86_A,C_87_A,C_88_A,G_89_A,A_118_A,A_119_A,G_120_A,G_121_A,A_122_A,A_123_A	C-di-AMP site	Pocket_76	76
+6n5q	A_9_A,G_25_A,U_26_A,A_27_A,C_28_A,G_29_A,G_30_A,A_31_A,G_32_A,G_33_A,G_47_A,G_48_A,U_49_A,U_50_A,A_99_A,G_100_A,C_101_A,U_102_A,A_103_A,A_104_A,C_105_A,U_106_A,C_107_A,C_108_A,G_109_A,G_110_A	C-di-AMP site	Pocket_77	77
+6wtl	U_40_A,G_41_A,G_42_A,U_49_A,C_50_A,U_51_A,G_52_A,C_53_A,A_54_A,G_55_A,U_56_A,G_57_A,A_58_A,A_59_A,G_60_A,C_61_A,U_62_A,G_63_A,C_64_A,A_65_A,G_66_A,U_67_A,C_87_A,A_88_A	C-di-AMP site	Pocket_78	78
+4znp	A_54_A,A_55_A,G_56_A,A_71_A	ZMP site	Pocket_79	79
+4znp	A_8_A,G_9_A,G_10_A,A_11_A,A_39_A,C_40_A,U_41_A,G_42_A,U_43_A,G_69_A,C_70_A,A_71_A,C_73_A	ZMP site	Pocket_80	80
+4znp	G_9_A,G_10_A,G_25_A,G_26_A,G_27_A,A_28_A,A_29_A,C_32_A,A_33_A,C_34_A,G_35_A,U_36_A	ZMP site	Pocket_81	81
+1mwl	G_15_A,A_16_A,A_17_A,G_18_A	Prokaryotic Site I	Pocket_82	82
+2esi	U_0_A,U_1_A,G_2_A,C_3_A,G_4_A,G_38_B,A_39_B,A_40_B,G_41_B,U_42_B,C_43_B,G_44_B,C_45_B	Prokaryotic Site I	Pocket_83	83
+2f4t	C_1411_A,C_1412_A,G_1489_B,U_1490_B	Prokaryotic Site I	Pocket_84	84
+5z1h	G_10_A,C_11_A,C_12_A,G_13_A,G_14_A,A_31_B,C_32_B,G_33_B,C_34_B	Prokaryotic Site I	Pocket_85	85
+7edl	C_12_A,G_13_A,G_14_A,C_15_A,G_16_A,A_17_A,A_18_A,U_20_A,C_21_A,G_22_A,G_26_B,C_27_B,G_28_B,U_29_B,C_30_B,A_31_B	Prokaryotic Site I	Pocket_86	86
+4p3s	C_8_A,C_9_A,G_39_B,A_40_B,A_41_B,G_42_B	Prokaryotic Site V	Pocket_87	87
+3bnr	U_6_C,C_7_C,A_8_C,C_10_C,G_11_D,A_12_D,G_13_D,C_14_D	Eukaryotic Site IV	Pocket_88	88
+3bnr	C_16_C,A_17_C,C_5_D,A_6_D	Eukaryotic Site IV	Pocket_89	89
+4k32	A_16_A,A_17_A,A_18_A,G_19_A	Eukaryotic Site III	Pocket_90	90
+4zc7	G_5_A,U_6_A,C_44_B,G_45_B	Eukaryotic Site III	Pocket_91	91
+5xz1	C_7_A,G_8_A,C_9_A,U_10_A,C_11_A,C_12_A	Eukaryotic Site III	Pocket_92	92
