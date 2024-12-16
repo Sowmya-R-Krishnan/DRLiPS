@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+scikit-learn
+sklearn-genetic
+matplotlib
+seaborn
+openbabel
+tqdm
+multiprocessing
+BioPython
+fpocket
