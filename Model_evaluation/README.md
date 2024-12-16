@@ -1,4 +1,4 @@
-# Model evaluation with external test datasets - Regression and classification data
+# Model evaluation with external test dataset
 
 ## Source of the datasets
 * Studies on genome-wide druggable regions in SARS-CoV-2 - Manfredonia et al., 2020; Sreeramulu et al., 2021
