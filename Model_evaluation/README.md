@@ -1,6 +1,6 @@
 # Model evaluation with external test dataset
 
-## Source of the datasets
+## Source of the data
 * Studies on genome-wide druggable regions in SARS-CoV-2 - Manfredonia et al., 2020; Sreeramulu et al., 2021
 * pre-miR-21 binding site - Costales et al., 2018
 
